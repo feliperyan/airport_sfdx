@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>airplane512</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Use with the Heroku Kafka demo</description>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Airport Control Centre</label>
+    <navType>Standard</navType>
+    <tabs>Captured_Event__c</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contract</tabs>
+    <tabs>standard-Case</tabs>
+    <tabs>standard-OtherUserProfile</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Airport_Control_Centre_UtilityBar</utilityBar>
+</CustomApplication>
